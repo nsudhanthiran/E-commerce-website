@@ -1,0 +1,1 @@
+An Ecommerce website developed using Django Rest Framework as backend and React.js as Frontend.
